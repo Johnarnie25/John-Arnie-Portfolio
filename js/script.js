@@ -455,7 +455,7 @@ if (newsletterForm) {
             const templateParams = {
         to_email: subscriberEmail,
         from_name: "Jay",
-        message: "Thanks for subscribing! Here's my CV and portfolio.",
+        message: "I came across your work and was genuinely impressed by what you’re building. If you’re currently exploring ways to improve your website, systems, or user experience, I’d be glad to support your team with scalable and efficient solutions.",
         cv_link: "pdf/john-arnie-mariano-v1.pdf",
         portfolio_link: "https://johnarniemariano.vercel.app/"
         };
