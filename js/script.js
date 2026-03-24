@@ -456,7 +456,7 @@ if (newsletterForm) {
         to_email: subscriberEmail,
         from_name: "Jay",
         message: "I came across your work and was genuinely impressed by what you’re building. If you’re currently exploring ways to improve your website, systems, or user experience, I’d be glad to support your team with scalable and efficient solutions.",
-        cv_link: "pdf/john-arnie-mariano-v1.pdf",
+        cv_link: "https://johnarniemariano.vercel.app/pdf/john-arnie-mariano-v1.pdf",
         portfolio_link: "https://johnarniemariano.vercel.app/"
         };
 
